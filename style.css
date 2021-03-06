@@ -1,0 +1,20 @@
+#ques2,#ques3,#ques4,#ques5
+{
+    display: none;
+}
+.quiz
+{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+#show
+{
+    background-color:gainsboro;
+    height: 150px;
+    color:crimson;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 40px;
+    display:none;
+}
